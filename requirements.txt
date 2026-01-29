@@ -3,5 +3,6 @@ langchain
 re
 langchain_community
 langchain_groq
-pypdf loader
+pypdf_loader
 langsmith
+
